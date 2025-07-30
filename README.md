@@ -37,7 +37,7 @@ The website utilizes Framer Motion for:
 ## Deployment
 
 The application can be deployed on platforms like **Vercel**, which provides seamless integration with Next.js.
-- Visit deployment [here]https://portfolio-ecru-six-92.vercel.app/)
+- Visit deployment [here](https://portfolio-ecru-six-92.vercel.app/)
 
 
 ## License
